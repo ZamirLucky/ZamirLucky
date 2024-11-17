@@ -1,10 +1,14 @@
-## Hi there 👋
+## About me ✍
+
+
+<!-- **ZamirLucky/ZamirLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+👋 I am Abdirizak Hassan Osman, originally from the 🌍 Horn of Africa, and have been living in Malta for a decade. 
+Currently, I am pursuing a 🎓 Bachelor of Science (Honours) in Software Development at The Malta College of Arts, Science and Technology, which I committed to in 2023. 
+My journey reflects a commitment to growth and adaptation, blending diverse cultural experiences with a passion 💻 for modern technology. 
+Driven by curiosity 🤔 and innovation 🚀, I am dedicated to building solutions that bridge creativity 💡 and practical impact.
 
 <!--
-**ZamirLucky/ZamirLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
