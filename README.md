@@ -1,12 +1,9 @@
-## About me ✍
+
+- 👋 Hi ZamirLucky, My fullName: Abdirizak Hassan Osman
+- 🌱 I’m currently pursuing  a BSC (Honours) in Software Development at The Malta College of Arts, Science and Technology
+- 📫 reach me: abdorizak264@gmail.com
 
 
-<!-- **ZamirLucky/ZamirLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-👋 I am Abdirizak Hassan Osman, originally from the 🌍 Horn of Africa, and have been living in Malta for a decade. 
-Currently, I am pursuing a 🎓 Bachelor of Science (Honours) in Software Development at The Malta College of Arts, Science and Technology, which I committed to in 2023. 
-My journey reflects a commitment to growth and adaptation, blending diverse cultural experiences with a passion 💻 for modern technology. 
-Driven by curiosity 🤔 and innovation 🚀, I am dedicated to building solutions that bridge creativity 💡 and practical impact.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -14,7 +11,7 @@ Driven by curiosity 🤔 and innovation 🚀, I am dedicated to building solutio
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
