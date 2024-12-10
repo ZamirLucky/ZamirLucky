@@ -1,6 +1,6 @@
 
 - 👋 Hi, I am ZamirLucky, My fullName: Abdirizak Hassan Osman
-- 🌱 I’m currently pursuing  a BSC (Honours) in Software Development at The Malta College of Arts, Science and Technology
+- 🌱 I’m currently studying
 - 📫 reach me: abdorizak264@gmail.com
 
 
